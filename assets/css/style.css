@@ -1,0 +1,16 @@
+* {
+    font-family: "Lexend Deca", sans-serif;
+       
+    }
+
+p {
+    font-family: "Inter", sans-serif;
+}
+.space-top{
+    padding-top: 12rem;
+}
+
+.wrapper {
+    padding-right: 6%;
+    padding-left: 6%;
+}
